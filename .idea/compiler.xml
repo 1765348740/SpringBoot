@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="case17" />
+        <module name="case09" />
+        <module name="case08" />
+        <module name="case07" />
+        <module name="case06" />
+        <module name="case05" />
+        <module name="case04" />
+        <module name="case03" />
+        <module name="case02" />
+        <module name="case01" />
+        <module name="case16" />
+        <module name="case15" />
+        <module name="case14" />
+        <module name="case13" />
+        <module name="case12" />
+        <module name="case11" />
+        <module name="spring-boot-maven" />
+        <module name="case10" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="case01" options="-parameters" />
+      <module name="case02" options="-parameters" />
+      <module name="case03" options="-parameters" />
+      <module name="case04" options="-parameters" />
+      <module name="case05" options="-parameters" />
+      <module name="case06" options="-parameters" />
+      <module name="case07" options="-parameters" />
+      <module name="case08" options="-parameters" />
+      <module name="case09" options="-parameters" />
+      <module name="case10" options="-parameters" />
+      <module name="case11" options="-parameters" />
+      <module name="case12" options="-parameters" />
+      <module name="case13" options="-parameters" />
+      <module name="case14" options="-parameters" />
+      <module name="case15" options="-parameters" />
+      <module name="case16" options="-parameters" />
+      <module name="case17" options="-parameters" />
+      <module name="spring-boot-maven" options="-parameters" />
+    </option>
+  </component>
+</project>
